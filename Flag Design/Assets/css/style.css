@@ -1,0 +1,178 @@
+*{
+    margin: 0px;
+}
+
+
+
+
+
+
+h2 {
+    text-align: center;
+    color: red;
+    font-size: 25px;
+    font-family: verdana;
+    padding-bottom: 5px;
+}
+
+.Crotia{
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin: 50px auto;
+    border-top: 100px solid red;
+    border-bottom: 100px solid blue;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.Crotia img {
+width: 130px;
+margin: -55px auto 0px;
+}
+
+
+.wales{
+    width: 500px;
+    height: 150px;
+    background-color: white;
+    margin: 50px auto;
+    border-bottom: 150px solid green ;
+    text-align: center;
+    margin-top: 0px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.wales img {
+width: 200px;
+margin: 80px auto 0px;
+}
+
+p{
+text-align: center;
+color: blue;
+
+}
+
+.Afganistan{
+    width: 165px;
+    height: 280px;
+    background-color: rgb(141, 3, 3);
+    margin: 50px auto;
+    border-left: 165px solid black;
+    border-right: 165px solid green;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+.Afganistan img {
+width: 165px;
+margin: 60px auto 0px;
+
+}
+
+
+.Combodia{
+    width: 500px;
+    height: 100px;
+    background-color: darkred;
+    margin: 50px auto;
+    border-top: 100px solid darkblue;
+    border-bottom: 100px solid darkblue;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.Combodia img {
+width: 150px;
+}
+
+
+
+.Canada{
+    width: 180px;
+    height: 300px;
+    background-color: white;
+    margin: 50px auto;
+    border-left: 160px solid red;
+    border-right: 160px solid red;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.Canada img {
+width: 180px;
+margin: 65px auto 0px;
+}
+
+
+.Portugal{
+    width: 180px;
+    height: 300px;
+    background-color: green;
+    margin: 50px auto;
+    border-right: 300px solid red;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.Portugal img {
+width: 150px;
+margin-top: 70px;
+margin-left: 105px;
+}
+
+
+.San_Marino{
+    width: 500px;
+    height: 150px;
+    background-color: white;
+    margin: 50px auto;
+    border-bottom: 150px solid skyblue ;
+    text-align: center;
+    margin-top: 0px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.San_Marino img {
+width: 150px;
+margin: 60px auto 0px;
+}
+
+.India{
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin: 50px auto;
+    border-top: 100px solid darkorange;
+    border-bottom: 100px solid green;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.India img {
+width: 100px;
+margin: 0px auto 0px;
+}
+
+
+.China{
+    width: 500px;
+    height: 300px;
+    background-color: red;
+    margin: 50px auto;
+    text-align: left;
+    margin-top: 0px;
+}
+
+.China img {
+width: 150px;
+margin-top: 15px;
+margin-left: 20px;
+}
